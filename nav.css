@@ -16,11 +16,15 @@
 }
 
 .nav ul li:hover > ul {
-    display: block;
+    display:block;
 	margin:inherit;
+	left:0;
+	top:100%;
+		
 }
 
 .nav ul ul li {
 display:block;
+
 }
 
